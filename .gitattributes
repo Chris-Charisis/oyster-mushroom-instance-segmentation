@@ -1,0 +1,1 @@
+configs/mask_rcnn_r50_fpn_1x_coco_BEST_mAP.pth filter=lfs diff=lfs merge=lfs -text
